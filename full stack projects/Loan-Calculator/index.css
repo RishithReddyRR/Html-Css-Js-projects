@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container{
+    background-color:darkcyan;
+    width:30vw;
+    color: white;
+    text-align: center;
+    padding:2rem;
+    border-radius:4px;
+    font-family: monospace;
+    /* margin: 2rem; */
+}
+label{
+    display: block;
+    font-size: .8rem;
+    text-align: left;
+}
+input{
+    width: 100%;
+    margin-bottom:.7rem;
+    padding: 5px;
+}

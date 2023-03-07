@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    min-height: 100vh;
+    background-color:salmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    text-align: center;
+}
+#one{
+    color:white;  align-items: center;
+}
+button{
+    width: 7rem;
+    height: 4rem;
+    background-color:rgba(255,255,255,.4);
+    border: none;
+    border-radius:5px;
+    font-size:3em;
+    cursor: pointer;
+}
+#two{
+    color:darkblue ;
+}

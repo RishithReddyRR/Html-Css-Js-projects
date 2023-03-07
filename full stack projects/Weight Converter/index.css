@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-image:linear-gradient(to right bottom,yellow,lightblue,yellow);
+}
+.container{
+    background-color:rgba(255,255,255,.3);
+    box-shadow:0 5px 10px rgba(0,0,0,.3);
+    width: 20vw;
+    padding:10px;
+    border-radius:5px;
+    color:darkcyan;
+    font-family: monospace;
+    text-align: center;
+}
+#pounds{
+    float: right;
+    padding:.1rem;
+}
+#warn{
+    color: red;
+    display: none;
+}
+.container>div{
+    width: 90%;
+}
+label{
+    text-align: center;
+}
