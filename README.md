@@ -3,4 +3,5 @@ all projects previews <br/>
 [BMI-calculator](https://codepen.io/RISHITH-REDDY-RR/full/oNPGGNw)  
 [Currency-Converter](https://codepen.io/RISHITH-REDDY-RR/full/VwGMMYM)  
 [English-Dictionary](https://codepen.io/RISHITH-REDDY-RR/full/ZEMXXbG)  
-[Loan-calculator](https://codepen.io/RISHITH-REDDY-RR/full/dyqVVGV)
+[Loan-calculator](https://codepen.io/RISHITH-REDDY-RR/full/dyqVVGV)  
+[Note](https://codepen.io/RISHITH-REDDY-RR/full/zYJEEqB)
