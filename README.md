@@ -7,3 +7,4 @@ all projects previews <br/>
 [Note](https://codepen.io/RISHITH-REDDY-RR/full/zYJEEqB)  
 [Random-quote-generator](https://codepen.io/RISHITH-REDDY-RR/full/bGxooeZ)
 [Temperature converter](https://codepen.io/RISHITH-REDDY-RR/full/NWLaaRm)  
+[weight-converter](https://codepen.io/RISHITH-REDDY-RR/full/RwYLLoy)
